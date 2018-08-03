@@ -1,7 +1,5 @@
 package cn.edu.fudan.selab.smartHomeController.utility;
 
-import net.sf.json.JSONArray;
-
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
